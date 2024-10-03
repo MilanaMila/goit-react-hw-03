@@ -1,0 +1,12 @@
+.info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin-right: 60px;
+}
+
+.button {
+  display: block;
+  height: 60px;
+  align-self: center;
+}
